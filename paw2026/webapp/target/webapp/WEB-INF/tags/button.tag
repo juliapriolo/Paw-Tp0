@@ -14,6 +14,5 @@
 <button type="button"
         class="${classes}"
         <c:if test="${btnDisabled}">disabled</c:if>>
-    <%-- Uso de c:out para escapar el texto por seguridad [cite: 93] --%>
     <c:out value="${text}" />
 </button>

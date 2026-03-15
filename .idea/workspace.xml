@@ -9,7 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57382f68-fe80-4d79-b2de-948d461c4e04" name="Changes" comment="" />
+    <list default="true" id="57382f68-fe80-4d79-b2de-948d461c4e04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/input.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/card.tag" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/card.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/css/components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/classes/ar/edu/itba/paw/webapp/controller/HelloWorldController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/classes/ar/edu/itba/paw/webapp/controller/HelloWorldController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/tags/button.tag" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/tags/button.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/webapp/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +30,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
@@ -45,6 +60,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Tomcat Server.Unnamed.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/julia/webapp",
     "node.js.detected.package.eslint": "true",
@@ -175,7 +191,7 @@
       <workItem from="1773584406778" duration="2301000" />
       <workItem from="1773586740282" duration="59000" />
       <workItem from="1773586816381" duration="232000" />
-      <workItem from="1773587063937" duration="10374000" />
+      <workItem from="1773587063937" duration="11646000" />
     </task>
     <servers />
   </component>

@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-public class HelloWorldController {
+public class HomeController {
 
-    @RequestMapping(value = "/")
-    public ModelAndView helloWorld(){
-        final ModelAndView mav = new ModelAndView("index.jsp");
-        mav.addObject("username","Paw2026");
+    @RequestMapping("/")
+    public ModelAndView index() {
+        ModelAndView mav = new ModelAndView("index");
+        mav.addObject("userGreeting", "Bienvenido a PAW 2026");
         return mav;
     }
 }
