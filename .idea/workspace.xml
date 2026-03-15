@@ -10,16 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57382f68-fe80-4d79-b2de-948d461c4e04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/input.tag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/card.tag" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/tags/card.tag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/css/components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/classes/ar/edu/itba/paw/webapp/controller/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/classes/ar/edu/itba/paw/webapp/controller/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/tags/button.tag" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/tags/button.tag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/java/ar/edu/itba/paw/webapp/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/classes/ar/edu/itba/paw/webapp/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/classes/ar/edu/itba/paw/webapp/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/classes/ar/edu/itba/paw/webapp/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/paw2026/webapp/target/webapp/WEB-INF/classes/ar/edu/itba/paw/webapp/config/WebConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +187,7 @@
       <workItem from="1773584406778" duration="2301000" />
       <workItem from="1773586740282" duration="59000" />
       <workItem from="1773586816381" duration="232000" />
-      <workItem from="1773587063937" duration="11646000" />
+      <workItem from="1773587063937" duration="13157000" />
     </task>
     <servers />
   </component>
